@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SecPlus Drill</string>
+    <string name="hud_title">COMPTIA SECURITY+ // TACTICAL DRILL ENGINE</string>
+    <string name="hud_subtitle">SY0-701 CYBER DEFENSE EVALUATION INSTRUMENT</string>
+    <string name="status_online">UPLINK: SECURE</string>
+    <string name="status_synthesizing">UPLINK: SYNTHESIZING AI VECTORS…</string>
+    <string name="status_standby">UPLINK: LOCAL DECK ACTIVE</string>
+    <string name="execute_evaluation">EXECUTE EVALUATION</string>
+    <string name="advance_next_vector">ADVANCE NEXT VECTOR &gt;&gt;</string>
+    <string name="infiltrate_ai_vectors">DYNAMIC AI INFILTRATION [GEMINI JSON]</string>
+    <string name="paywall_modal_title">PAYWALL INTERCEPT PROTOCOL // CLEARANCE REQUIRED</string>
+    <string name="paywall_price_badge">$9.99 / MONTH — LEVEL-5 OMEGA CLEARANCE</string>
+    <string name="paywall_description">Attempted access to restricted AI Infiltration synthesis or classified Zero-Day drill tiers requires active Level-5 Tactical Clearance ($9.99/month).</string>
+    <string name="authorize_clearance">AUTHORIZE $9.99/MO CLEARANCE &amp; SYNTHESIZE</string>
+    <string name="abort_intercept">ABORT INTERCEPT [RETURN TO DECK]</string>
+    <string name="diagnostic_verified">VERIFIED // THREAT VECTOR NEUTRALIZED</string>
+    <string name="diagnostic_alert">ALERT // SECURITY CONTROL BREACH DETECTED</string>
+    <string name="rationale_header">DIAGNOSTIC RATIONALE TERMINAL // SY0-701 FORENSIC LOG</string>
+    <string name="proficiency_dashboard_title">PROFICIENCY DASHBOARD // TELEMETRY MATRIX</string>
+    <string name="proficiency_chart_subtitle">MULTI-DOMAIN SY0-701 PERFORMANCE TRAJECTORY OVER TIME</string>
+    <string name="log_calibration_snapshot">COMMIT TELEMETRY SNAPSHOT (+1 CYCLE)</string>
+    <string name="prototype_security_notice">PROTOTYPE TELEMETRY NOTICE: Direct REST API key packaged via BuildConfig for prototype evaluation. Do not distribute APK publicly.</string>
+</resources>

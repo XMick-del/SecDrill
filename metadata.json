@@ -1,0 +1,8 @@
+{
+  "name": "Remix Security+ Tactical Drill Engine",
+  "description": "Master CompTIA Security+ with this high-stakes, terminal-styled quiz platform featuring AI-generated drills and integrated evaluation protocols.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
